@@ -1,3 +1,22 @@
+# Build output
 out/
 *.jar
+
+# Snapshots written by the server
 *.rdb
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
